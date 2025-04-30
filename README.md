@@ -34,6 +34,7 @@ In this lab we will be configuring a VPN gateway for a point-to-site.
 Point-to-site VPN connection: A point-to-site VPN connection can be used to connect a single computer to an Azure virtual network. A P2S connection is established by starting it from the client computer. This type of VPN connection is commonly used by remote workers with portable computers. About Azure P2S https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about
 
 VPN Gateway pass validation below;
+
 ![P6-VNG-VALIDATION](https://github.com/user-attachments/assets/35c07486-6eba-4c7d-9147-fd8fbceb2167)
 
 The picture below shows the VPN gateway created alongside its Public IP (20.254.243.78 (ugo-VNG-Public-IP))
