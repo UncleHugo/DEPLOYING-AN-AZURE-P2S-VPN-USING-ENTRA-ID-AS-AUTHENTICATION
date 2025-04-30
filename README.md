@@ -40,6 +40,13 @@ VPN Gateway pass validation below;
 The picture below shows the VPN gateway created alongside its Public IP (20.254.243.78 (ugo-VNG-Public-IP))
 ![P7-VNG-created](https://github.com/user-attachments/assets/86e04fe1-eef6-4de4-9a59-a38bba69c298)
 
+In this next section, i proceeded with configuring the point-to-site where an address pool of 172.16.8.0/24 was used, OPEN-VPN (SSL) was the tunnel type since we intend in using Entra ID (Active Directory) as the authentication type.
+
+![P7-P2S-Config](https://github.com/user-attachments/assets/edcfa4bf-8b7a-4b15-8095-a0ccbed41fd4)
+
+
+
+
 
 
 
