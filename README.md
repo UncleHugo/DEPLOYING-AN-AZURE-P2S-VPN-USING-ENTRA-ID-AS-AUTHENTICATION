@@ -44,6 +44,8 @@ In this next section, i proceeded with configuring the point-to-site where an ad
 
 ![P7-P2S-Config](https://github.com/user-attachments/assets/edcfa4bf-8b7a-4b15-8095-a0ccbed41fd4)
 
+Since Active Directory was used as the authentication type, i 
+
 
 
 
