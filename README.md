@@ -111,3 +111,4 @@ In the picture below, we can see on our command prompt, 1 - the default gateway 
 
 
 
+
