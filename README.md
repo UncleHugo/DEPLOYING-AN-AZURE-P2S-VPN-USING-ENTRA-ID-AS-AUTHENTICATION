@@ -77,7 +77,7 @@ The picture below shows the green icon, successful connection and the user clien
 ![Successful](https://github.com/user-attachments/assets/21aa19ba-746b-4e29-986a-ec438beb6ff5)
 
 
-In the picture below, we can see on our command prompt, 1 - the default gateway IP and 2 - the user client IP
+In the picture below, we can see on our command prompt, 1 - the default gateway IP and 2 - the user client IP (my device vpn ip)
 
 ![IPconfig](https://github.com/user-attachments/assets/753b2e22-7213-4190-b6ae-d8e87bba8569)
 
